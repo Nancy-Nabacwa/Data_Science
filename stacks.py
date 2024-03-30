@@ -55,7 +55,7 @@ stack.put(2002)
 
 print(stack.qsize())# printing the size of the stack. ie stack has 3 elements.
 
-# get() function pops elements from stack in LIFO order
+# get() function pops elements from stack in LIFO order.
 
 print(stack.get())# output 2002
 print(stack.get())# output 'good'
