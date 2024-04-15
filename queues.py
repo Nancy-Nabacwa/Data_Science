@@ -95,7 +95,6 @@ class Queue:
         self.stack1.pop() 
         return element
  
-
 stackQueue = Queue()
 
 stackQueue.enQueue("Love") 
