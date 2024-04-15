@@ -26,7 +26,6 @@ print("isEmpty: ", isEmpty)# false
 print("Size: ", len(queue1))#4
 
 
-
 #implementing using class Queue
 class Queue:# create class called queue
     def __init__(self):#constructor ie invoked when we create a new queue.self which referes to obejct being created.
@@ -109,4 +108,3 @@ print("StackQueue1: ", stackQueue.stack1)
 print(stackQueue.deQueue())
 print(stackQueue.deQueue())
 print(stackQueue.deQueue())
- 
