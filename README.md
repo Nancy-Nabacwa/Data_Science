@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# Tupples and Stacks
 
-=======
 # Data_Science
    **Tuples and Stacks**
    
