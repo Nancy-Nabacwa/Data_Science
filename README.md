@@ -11,4 +11,6 @@ This repo includes the tuples, stacks and queues data structure
 
    ## Queues
    A queue is an ordered list which follows the principle FIFO(First In First Out). Elements are inserted at the end/rear(enqueue) and deletion is performed at the head/front(dequeue)
+   In this repo, methods of implementing queues are present. e.g. using lists, using two stacks etc.
+   
 
