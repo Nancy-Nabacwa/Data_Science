@@ -1,6 +1,9 @@
 
 # Data_Science
 This repo includes the tuples, stacks and queues data structure
+### [Go to Queues](#queues)
+### [Go to Tuples](#tuples)
+### [Go to Stacks](#stacks)
    ## Tuples
    Tuples are a data structure consisting of elements/ values separated by commas. This project entails all the details of tuples
    (Accessing elements in tuples and manipulating tuples after turning into a list.)
