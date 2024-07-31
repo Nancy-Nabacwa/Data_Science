@@ -19,5 +19,15 @@ This repo includes the tuples, stacks and queues data structure
 
    ## Heaps
    A Heap is a tree-based data structure commonly used to implement priority queues. There are two primary types of heaps: Min Heap and Max Heap
+
+   In a Min Heap, the root node is the smallest element, and each parent node is smaller than or equal to its children. Conversely, in a Max Heap, the root node is the largest element, 
+   and each parent node is greater than or equal to its children.
+
+   ### Key Characteristics
+   ## Completeness: 
+   All levels of the heap are fully populated except for possibly the last level, which is filled from left to right.
+   ## Heap Order: 
+   Each parent node adheres to the heap property, meaning it is either smaller (Min Heap) or larger (Max Heap) than or equal to its children.
+
    
 
