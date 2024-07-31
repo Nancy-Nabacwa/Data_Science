@@ -23,11 +23,13 @@ This repo includes the tuples, stacks and queues data structure
    In a Min Heap, the root node is the smallest element, and each parent node is smaller than or equal to its children. Conversely, in a Max Heap, the root node is the largest element, 
    and each parent node is greater than or equal to its children.
 
-   ### Key Characteristics
-   ## Completeness: 
+   ## Key Characteristics
+   ### Completeness: 
    All levels of the heap are fully populated except for possibly the last level, which is filled from left to right.
-   ## Heap Order: 
+   ### Heap Order: 
    Each parent node adheres to the heap property, meaning it is either smaller (Min Heap) or larger (Max Heap) than or equal to its children.
+   ![image](https://github.com/user-attachments/assets/832d2487-89a1-4ef0-b8c2-736c84626b93)
+
 
    
 
